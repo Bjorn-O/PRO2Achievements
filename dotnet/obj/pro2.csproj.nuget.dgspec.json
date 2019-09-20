@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Bjorn\\OneDrive\\Documents\\School\\bewijzenmap\\periode1.1\\pro2\\pro2.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Bjorn\\OneDrive\\Documents\\School\\bewijzenmap\\periode1.1\\pro2\\pro2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bjorn\\OneDrive\\Documents\\School\\bewijzenmap\\periode1.1\\pro2\\pro2.csproj",
+        "projectName": "pro2",
+        "projectPath": "C:\\Users\\Bjorn\\OneDrive\\Documents\\School\\bewijzenmap\\periode1.1\\pro2\\pro2.csproj",
+        "packagesPath": "C:\\Users\\Bjorn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bjorn\\OneDrive\\Documents\\School\\bewijzenmap\\periode1.1\\pro2\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Bjorn\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

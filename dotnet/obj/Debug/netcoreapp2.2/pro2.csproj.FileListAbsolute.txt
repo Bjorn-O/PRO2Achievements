@@ -1,0 +1,11 @@
+C:\Users\Bjorn\OneDrive\Documents\School\bewijzenmap\periode1.1\pro2\bin\Debug\netcoreapp2.2\pro2.deps.json
+C:\Users\Bjorn\OneDrive\Documents\School\bewijzenmap\periode1.1\pro2\bin\Debug\netcoreapp2.2\pro2.runtimeconfig.json
+C:\Users\Bjorn\OneDrive\Documents\School\bewijzenmap\periode1.1\pro2\bin\Debug\netcoreapp2.2\pro2.runtimeconfig.dev.json
+C:\Users\Bjorn\OneDrive\Documents\School\bewijzenmap\periode1.1\pro2\bin\Debug\netcoreapp2.2\pro2.dll
+C:\Users\Bjorn\OneDrive\Documents\School\bewijzenmap\periode1.1\pro2\bin\Debug\netcoreapp2.2\pro2.pdb
+C:\Users\Bjorn\OneDrive\Documents\School\bewijzenmap\periode1.1\pro2\obj\Debug\netcoreapp2.2\pro2.csprojAssemblyReference.cache
+C:\Users\Bjorn\OneDrive\Documents\School\bewijzenmap\periode1.1\pro2\obj\Debug\netcoreapp2.2\pro2.csproj.CoreCompileInputs.cache
+C:\Users\Bjorn\OneDrive\Documents\School\bewijzenmap\periode1.1\pro2\obj\Debug\netcoreapp2.2\pro2.AssemblyInfoInputs.cache
+C:\Users\Bjorn\OneDrive\Documents\School\bewijzenmap\periode1.1\pro2\obj\Debug\netcoreapp2.2\pro2.AssemblyInfo.cs
+C:\Users\Bjorn\OneDrive\Documents\School\bewijzenmap\periode1.1\pro2\obj\Debug\netcoreapp2.2\pro2.dll
+C:\Users\Bjorn\OneDrive\Documents\School\bewijzenmap\periode1.1\pro2\obj\Debug\netcoreapp2.2\pro2.pdb
